@@ -1,0 +1,26 @@
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.AssemblyInfoInputs.cache
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.AssemblyInfo.cs
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.csprojAssemblyReference.cache
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.exe
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.deps.json
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.runtimeconfig.json
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.runtimeconfig.dev.json
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.dll
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.pdb
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.dll
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.pdb
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\source\repos\Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.exe
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.deps.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.runtimeconfig.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.runtimeconfig.dev.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\bin\Debug\netcoreapp3.1\Adapter_Facade_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.AssemblyInfoInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.AssemblyInfo.cs
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.csproj.CoreCompileInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 7 Adapter_Facade_Muster\Adapter_Facade_Muster\obj\Debug\netcoreapp3.1\Adapter_Facade_Muster.GeneratedMSBuildEditorConfig.editorconfig
